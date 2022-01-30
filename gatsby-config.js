@@ -3,7 +3,7 @@
  *
  * See: https://www.gatsbyjs.org/docs/gatsby-config/
  */
-const netlifyCmsPaths = {
+ const netlifyCmsPaths = {
   resolve: `gatsby-plugin-netlify-cms-paths`,
   options: {
     cmsConfig: `/static/admin/config.yml`,
@@ -62,7 +62,6 @@ module.exports = {
                   template: node => node.frontmatter.template,
                   title: node => node.frontmatter.title,
                   slug: node => node.frontmatter.slug,
-                  url: node => node.frontmatter.url,
                 },
               },
               // Optional filter to limit indexed nodes

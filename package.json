@@ -1,12 +1,12 @@
 {
-  "name": "@stackrole/gatsby-starter-foundation",
+  "name": "Lowcode.fun",
   "description": "A platform to showcase projects built using low-code or no-code tech.",
   "version": "2.0.0",
   "author": "Shubhendra <withshubh@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stackrole/gatsby-starter-foundation.git"
+    "url": "https://github.com/withshubh/lowcode.fun.git"
   },
   "bugs": {
     "url": "https://github.com/withshubh/lowcode.fun/issues"

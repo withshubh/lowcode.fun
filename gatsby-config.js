@@ -61,6 +61,7 @@ module.exports = {
                   template: node => node.frontmatter.template,
                   title: node => node.frontmatter.title,
                   slug: node => node.frontmatter.slug,
+                  slug: node => node.frontmatter.url,
                 },
               },
               // Optional filter to limit indexed nodes

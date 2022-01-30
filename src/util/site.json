@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "title": "Low-code Showcase",
+    "titleTemplate": "%s",
+    "description": "A platform to showcase projects built using low-code or no-code tech",
+    "siteUrl": "https://lowcode.fun",
+    "image": "/assets/Favicon.png",
+    "iconimage": "/assets/Favicon.png",
+    "twitterUsername": "@UB_Shubh"
+  },
+  "ga": "G-TV1VCFFFN5"
+}
